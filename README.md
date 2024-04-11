@@ -1,2 +1,2 @@
 # Data-Structure-Review
-A Quic Review of Data Structure and Algorithms
+A Quick Review of Data Structure and Algorithms
